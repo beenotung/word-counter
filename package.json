@@ -1,5 +1,5 @@
 {
-  "name": "word-counter",
+  "name": "word-counter-ts",
   "version": "0.1.0",
   "description": "Count words in strings. Support for English, CJK, and Cyrillic.",
   "keywords": [
