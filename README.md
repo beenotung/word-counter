@@ -7,3 +7,6 @@ Count words in strings. Support for English, CJK, and Cyrillic.
 ## Features
 - customizable word splitter (default use [word-regex](https://www.npmjs.com/package/word-regex))
 - custom collapse behaviour (default String.toLocaleLowerCase)
+
+## License
+[BSD-2-Clause](./LICENSE)
